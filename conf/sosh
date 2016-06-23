@@ -1,0 +1,10 @@
+115200
+nodetach
+noipdefault
+defaultroute
+noauth
+user any
+password any
+usepeerdns
+replacedefaultroute
+connect "/usr/sbin/chat -f ./conf/sosh-chat"
